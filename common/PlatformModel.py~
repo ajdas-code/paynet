@@ -1,0 +1,9 @@
+######################################
+# Models for Common Model
+####################################
+from app import db
+import ulid
+
+class BaseModel (db.Model):
+    def idGenerator ( self ):
+        return str(ulid.new())
