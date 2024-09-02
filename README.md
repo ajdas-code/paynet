@@ -2,38 +2,7 @@
 
 <img width="869" alt="Screen Shot 2024-09-01 at 5 46 42 PM" src="https://github.com/user-attachments/assets/52c5a4cc-9742-4600-ae1d-c01300c65828">
 
-                          +---------------------------------------+
-                          |          RIV = Research In Value      |
-                          |         - RabbitMQ                    |
-                          |         - SQLite                      |
-                          |         - Postgres                    |
-                          |         - Flask                       |
-                          |         - ReST                        |
-                          +---------------------------------------+
-                                   
-+-----------------------+   +-----------------------+  +---------------------+    
-| #1  RivPay [Client]   |   |#2Settlement & Recon    |  |  RivMerchant        |
-|  - mobile app         |   |  - Luigi               |  |  - Braian           |
-|  - Braian             |   |  - PySpark             |  |                     |
-|                       |   |  - Ajitesh             |  |                     |
-+-----------------------+   +-----------------------+  +---------------------+      +-----------------------------+
-                                                                                    |   Platform BC               |
-                                                                                    |   - geth                    |
-                                                                                    |   - Ajitesh                 |
-                                                                                    +-----------------------------+
-                                  
-                                                                                    +-----------------------------+
-                                                                                    |   Data & Analytics          |
-                                                                                    |   - Apache Iceberg          |
-                                                                                    |   - Ajitesh                 |
-                                                                                   +-----------------------------+
-                                  
-                                                                                   +-----------------------------+
-                                                                                   |   API ready to be hooked    |
-                                                                                   |   with Online Store         |
-                                                                                   |   - Braian                  |
-                                                                                   +-----------------------------+
-     
+
 Legend:
 1. Flask - API / Python - C and M
 2. ReST
