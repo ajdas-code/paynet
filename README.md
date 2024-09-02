@@ -1,5 +1,7 @@
 # paynet
 
+<img width="869" alt="Screen Shot 2024-09-01 at 5 46 42 PM" src="https://github.com/user-attachments/assets/52c5a4cc-9742-4600-ae1d-c01300c65828">
+
                           +---------------------------------------+
                           |          RIV = Research In Value      |
                           |         - RabbitMQ                    |
